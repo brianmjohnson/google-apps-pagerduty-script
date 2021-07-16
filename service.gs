@@ -1,4 +1,3 @@
-// 2021-07-16
 // Main entry point of the application
 function main() { 
   load(getReportDateFrom(1));
@@ -6,7 +5,7 @@ function main() {
 
 // Run for specific date
 function catchUp() {
-  load(new Date('2018-09-25'));
+  load(new Date('2020-01-01'));
 }
 
 // Gets data from API and loads it into spreadsheet
