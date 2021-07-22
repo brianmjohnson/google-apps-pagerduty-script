@@ -1,5 +1,5 @@
 // Global constants
-var SHEET_DATA = "Data";
+var SHEET_DATA = "Incidents";
 
 var Appender = (function() {
   // Public members  
